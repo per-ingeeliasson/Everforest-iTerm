@@ -1,4 +1,4 @@
 # Everforest iTerm
 A better Everforest for the command-line
 
-<img width="425" height="297" alt="AsciiquariumEverforest" src="https://github.com/user-attachments/assets/5a6fba1b-43a1-4649-8c02-8debbb45bd70" />
+<img width="550" height="384" alt="AsciiquariumEverforest" src="https://github.com/user-attachments/assets/a832ef7a-73b9-481a-b73c-a3a1534c365e" />
